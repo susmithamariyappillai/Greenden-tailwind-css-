@@ -52,7 +52,30 @@ Greenden/
 │── images/
 │── README.md
 
+----
+## 🎯 Learning Outcomes
 
+This project helped me learn:
+
+- Tailwind CSS Utility Classes
+- Responsive Web Design
+- Flexbox
+- CSS Grid
+- Navigation Bar Design
+- Hero Section Design
+- Card Layouts
+- Mobile Responsive Layout
+- Git & GitHub
+
+---
+## 🔮 Future Improvements
+
+- Shopping Cart
+- Search Functionality
+- Product Filtering
+- Login & Signup
+- Backend Integration
+- Payment Gateway
 
 
 
