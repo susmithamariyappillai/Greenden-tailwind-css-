@@ -83,7 +83,7 @@ Greenden/
 
 ## 🔗 Live Demo
 
-https://your-live-demo-link.netlify.app
+ https://susmithamariyappillai.github.io/Greenden-tailwind-css-/
 
 ---
 
